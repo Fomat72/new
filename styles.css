@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2? display=swap');  
+
+body {
+    background-color: rgb(214, 231, 230);
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: grey;
+}
+
+.foto {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.profil {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.profil-name {
+    margin-left: 20px;
+} 
+
+.profil p {
+    color: rgb(236, 9, 35);
+    font-style: italic;
+    word-spacing: 15px;
+}
+
+.box {
+    max-width: 800px;
+    margin: auto;
+
+}
+
+.p {
+    background: burlywood;
+}
+
+.packaging p {
+    color: blue;
+}
+
+.b {
+    background: brown;
+}
+
+.b h2 {
+    text-align: center;
+}
+
+.d {
+    background: rgb(17, 190, 196);
+}
+
+.packaging {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
